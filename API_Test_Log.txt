@@ -1,0 +1,3 @@
+Query: harry potter → İlk Kitap Başlığı: Harry Potter and the Order of the Phoenix
+Query: lord of the rings → İlk Kitap Başlığı: The Lord of the Rings
+Query: game of thrones → İlk Kitap Başlığı: A Game of Thrones
